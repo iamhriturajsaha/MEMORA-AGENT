@@ -2,7 +2,7 @@
 
 > Turn static documents into interactive knowledge.
 
-MEMORA is a production-aligned RAG (Retrieval-Augmented Generation) application that lets you upload documents and explore them through natural conversation. Built with LangChain LCEL, FAISS, Hugging Face embeddings, and a Groq-powered LLM.
+MEMORA is a production-aligned RAG (Retrieval-Augmented Generation) application that lets you upload documents and explore them through natural conversation. Built with LangChain LCEL, FAISS, Hugging Face embeddings and a Groq-powered LLM.
 
 ## Features
 
@@ -64,5 +64,6 @@ PDF Upload → PyPDFLoader → RecursiveCharacterTextSplitter
 - Keep secrets out of your repository.
 
 ## Learning Outcomes
+
 
 This project demonstrates hands-on application of - RAG architecture design, LangChain LCEL, vector database integration, prompt engineering, conversational memory, Streamlit development and LLM API integration.
