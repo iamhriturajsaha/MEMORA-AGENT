@@ -1,4 +1,4 @@
-# MEMORA Agent
+# 📚MEMORA Agent
 
 > Turn static documents into interactive knowledge.
 
@@ -51,6 +51,18 @@ PDF Upload → PyPDFLoader → RecursiveCharacterTextSplitter
 4. Ask questions in the chat box.
 5. Continue the conversation — memory is preserved across turns.
 
+## Quick Glance
+
+<p align="center">
+  <img src="Streamlit Images/1.png" alt="1" width="1000"/><br>
+  <img src="Streamlit Images/2.png" alt="2" width="1000"/><br>
+  <img src="Streamlit Images/3.png" alt="3" width="1000"/><br>
+  <img src="Streamlit Images/4.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Images/5.png" alt="5" width="1000"/><br>
+  <img src="Streamlit Images/6.png" alt="4" width="1000"/><br>
+  <img src="Streamlit Images/7.png" alt="5" width="1000"/><br>
+</p>
+
 ## Known Limitations
 
 - Works best with text-based PDFs (no OCR for scanned documents).
@@ -64,6 +76,5 @@ PDF Upload → PyPDFLoader → RecursiveCharacterTextSplitter
 - Keep secrets out of your repository.
 
 ## Learning Outcomes
-
 
 This project demonstrates hands-on application of - RAG architecture design, LangChain LCEL, vector database integration, prompt engineering, conversational memory, Streamlit development and LLM API integration.
