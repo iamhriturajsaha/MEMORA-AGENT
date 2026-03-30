@@ -76,5 +76,4 @@ PDF Upload → PyPDFLoader → RecursiveCharacterTextSplitter
 - Keep secrets out of your repository.
 
 ## Learning Outcomes
-
 This project demonstrates hands-on application of - RAG architecture design, LangChain LCEL, vector database integration, prompt engineering, conversational memory, Streamlit development and LLM API integration.
